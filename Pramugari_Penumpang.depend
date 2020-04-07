@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1586236438 source:d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\main.cpp
+	<iostream>
+	<stdlib.h>
+	"header_relasi.h"
+	"header_penumpang.h"
+	"header_pramugari.h"
+	"menu.h"
+
+1586003640 d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\header_relasi.h
+	"header_relasi.h"
+	"header_penumpang.h"
+	"header_pramugari.h"
+	<iostream>
+
+1586229975 d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\header_penumpang.h
+	<iostream>
+
+1586229862 d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\header_pramugari.h
+	<iostream>
+
+1586229869 source:d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\pramugari.cpp
+	"header_pramugari.h"
+
+1586003732 source:d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\relasi.cpp
+	"header_relasi.h"
+
+1586229877 source:d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\penumpang.cpp
+	"header_penumpang.h"
+
+1586235396 d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\menu.h
+	"header_penumpang.h"
+	"header_pramugari.h"
+	"header_relasi.h"
+	<iostream>
+
+1586235073 source:d:\kelas\semester 2\strukdat\tubes\pramugari_penumpang\menu.cpp
+	"menu.h"
+
