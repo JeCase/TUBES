@@ -9,8 +9,8 @@ using namespace std;
     address_pramugari P;
     address_penumpang C;
     address_relasi R;
-    infotype_pramugari nama_pramugari, pramugari_relasi = "KOSONGINAJA";
-    infotype_penumpang nama_penumpang, penumpang_relasi = "KOSONGINAJA";
+    infotype_pramugari nama_pramugari, pramugari_relasi;
+    infotype_penumpang nama_penumpang, penumpang_relasi;
 
 
 void add_pramugari(List_pramugari &LP){
